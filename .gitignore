@@ -11,6 +11,7 @@ roblox.toml
 # dependencies
 Packages/*
 !Packages/.robloxrc
+node_modules
 .DS_Store
 debug.log
 
